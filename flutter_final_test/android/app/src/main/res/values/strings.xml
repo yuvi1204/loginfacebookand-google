@@ -1,0 +1,6 @@
+<resources>
+<string name="app_name">blabbon app</string>
+<string name="facebook_app_id">693543108669191</string>
+<string name="fb_login_protocol_scheme">fb693543108669191</string>
+<string name="facebook_client_token">437f9e7b5891054010b050c8f7cec1ac</string>
+</resources>
